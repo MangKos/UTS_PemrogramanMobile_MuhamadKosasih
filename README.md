@@ -1,4 +1,4 @@
-##Studi Kasus dalam project
+##Studi Kasus dalam project##
 1.	Buatlah sebuah program sederhana yang terdiri dari 4 Activity menggunakan Android Native (Java + XML) yang terdiri dari:
 a	SplashScreen Activity
 b	Login Activity
@@ -9,7 +9,7 @@ d	List Chating
 4.	Tampilkan event Log, Toast dan Toast pada saat Button Register di klik.
 5.	Pada List Chating terdapat data yang ditampilkan dalam listview
 
-Contoh tampilannya
+##Contoh tampilannya##
 
 ![splash](https://github.com/user-attachments/assets/b6b2c49c-f164-494e-927e-947d7f816712)
     ![login](https://github.com/user-attachments/assets/80c9dff7-449e-48ed-9898-680aaf47c467)
@@ -20,5 +20,6 @@ Contoh tampilannya
 
 
 
-Bentuk PDF
+##Bentuk PDF##
+
 [UTS_PM1_23552011450_Muhamad Kosasih_TIF RP 23 CNS B.pdf](https://github.com/user-attachments/files/20052398/UTS_PM1_23552011450_Muhamad.Kosasih_TIF.RP.23.CNS.B.pdf)
