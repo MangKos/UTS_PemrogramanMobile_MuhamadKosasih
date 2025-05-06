@@ -10,9 +10,12 @@ d	List Chating
 5.	Pada List Chating terdapat data yang ditampilkan dalam listview
 
 Contoh tampilannya
-![Uploading splash.jpeg…]()    ![Uploading login.jpeg…]()
+![splash](https://github.com/user-attachments/assets/b6b2c49c-f164-494e-927e-947d7f816712)
+    ![login](https://github.com/user-attachments/assets/80c9dff7-449e-48ed-9898-680aaf47c467)
 
-![Uploading Registrasi.jpeg…]()    ![Uploading Listchat.jpeg…]()
+
+![Registrasi](https://github.com/user-attachments/assets/182d686e-e979-4367-bbe7-83fc9f679c9c)
+    ![Listchat](https://github.com/user-attachments/assets/c87cd5f6-1817-4949-b854-69bb47688aa8)
 
 
 
